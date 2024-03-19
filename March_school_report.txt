@@ -1,0 +1,17 @@
++--------------------------------------------------------------------------------------------------+
+ School Monthly Report on March                                                            
++--------------------------------------------------------------------------------------------------+
+|         Leave Type          | Total Number of Staff that Applied Leave | Average Leaves Per Month|
++-----------------------------+------------------------------------------+-------------------------+
+| Total Leave Applied         | 12                                       | 0.387097                |
+| Total Annual Leave Applied  | 6                                        | 0.193548                |
+| Total Compassionate Applied | 2                                        | 0.064516                |
+| Total Emergency Applied     | 4                                        | 0.129032                |
+| Total Maternity Applied     | 0                                        | 0.000000                |
+| Total Medical Applied       | 0                                        | 0.000000                |
++-----------------------------+------------------------------------------+-------------------------+
+
+During March, the employee who took the highest number of leaves was 4 days, and the leave was taken by:
+
+AP1003 | Name: William Lim  | Department: Asia Pacific Language Centre 
+AP1014 | Name: Joseph Tan  | Department: Faculty of Business and Management 

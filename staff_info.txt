@@ -1,0 +1,27 @@
+AP1001 | John Tan | 39 | john12@apu.edu.my | +60122212345 | CEO | - | President | john | Johntan01
+AP1002 | Cynthia Chuo Yee Yin | 37 | cynthia.chuo@apu.edu.my | +60189861109 | Head | Academic Administration | Administrative Manager | cynthia | Cynthia123
+AP1003 | William Lim | 35 | william@apu.edu.my | +60129961110 | Head | Asia Pacific Language Centre | Senior Lecturer | william | william1000
+AP1004 | Jacob Ding | 34 | jacob@apu.edu.my | +60179961010 | Head | Faculty of Business and Management | Senior Lecturer | jacobD | jacobb122
+AP1005 | Grace Ling | 25 | grace2001@apu.edu.my | +60149961000 | Head | Faculty of Computing and Technology | Senior Lecturer | gracee | egg233
+AP1006 | Samuel Ling | 35 | samuel@apu.edu.my | +60139961000 | Head | Human Resources | Senior Manager | samuel | samuel123
+AP1007 | Harper Woo | 46 | harprer12@apu.edu.my | +60189961000 | Head | Operations Management | Operation Manager | Harper | harper1223
+AP1008 | Benjamin Lee | 26 | benjamin@apu.edu.my | +60122323234 | Head | School of Foundation Studies | Senior Lecturer | benjamin26 | benben223
+AP1009 | Charlotte Kong | 29 | charlottet@apu.edu.my | +60111223456 | Head | School of Psychology | Senior Lecturer | charlotteee | cctan1122
+AP1010 | Emily Teh | 45 | emilyy@apu.edu.my | +60122233234 | Head | Technology Services | Technology Manager | emilyteh | emiteh255
+AP1011 | Ethan Lim | 56 | ethan@apu.edu.my | +60165464660 | Member | Academic Administration | Lecturer | ethanll | limmme1221
+AP1012 | Catherine Cheing | 54 | catherine@apu.edu.my | +60121212133 | Member | Academic Administration | Lecturer | catherine | cathethe1212
+AP1013 | Lucas | 25 | lucass@apu.edu.my | +601118851755 | Member | Asia Pacific Language Centre | Lecturer | lucas17 | lucas1020
+AP1014 | Joseph Tan |  36 | joseph@apu.edu.my | +60165464440 | Member | Faculty of Business and Management | Lecturer | joseph | Joseph232
+AP1015 | Chloe Tan | 56 | chloe@apu.edu.my | +60165444770 | Member | Faculty of Business and Management | Lecturer | chloe | chloeetan
+AP1016 | Hannah Lim | 43 | hannah@apu.edu.my | +60165565775 | Member | Faculty of Computing and Technology | Lecturer | hannah | haha1001
+AP1017 | Luke Lee | 55 | lukelee@apu.edu.my | +60125656770 | Member | Faculty of Computing and Technology | Lecturer | lukeluke | lukelee555
+AP1018 | Lila Loh | 65 | lilal@apu.edu.my | +60161885177 | Member | Human Resources | Consultant | lila | lilalila
+AP1019 | Dylan Ong | 44 | dylan@apu.edu.my | +60166464770 | Member | Human Resources | Consultant | dylan | dylan54321
+AP1020 | Lexi Ding | 33 | lexii@apu.edu.my | +60123333770 | Member | Operations Management | Logistic Staff | lexixi | lexi520520
+AP1021 | Esther Ding | 25 | estherr@apu.edu.my | +60165656550 | Member | Operations Management | Master Scheduler | esther | esther001
+AP1022 | Eugene Ding | 28 | eugene@apu.edu.my | +60165557179 | Member | School of Foundation Studies | Lecturer | eugene | Eugene0404
+AP1023 | Tan Xiao Ru | 28 | xiaoru@apu.edu.my | +60165557575 | Member | School of Foundation Studies | Lecturer | xiaoru | xiaoruxiaoru
+AP1024 | Jackson Wong | 39 | jackson@apu.edu.my | +60125545544 | Member | School of Psychology | Lecturer | jackson | jacksonTT
+AP1025 | Axcell Ling | 55 | axcell@apu.edu.my | +60166669990 | Member | School of Psychology | Lecturer | axcell | ALALaxcell
+AP1026 | Ong Jia Chi | 34 | jiachi@apu.edu.my | +60123322332 | Member | Technology Services | IT support | jiachi | JIACHI22
+AP1027 | Angela Tan | 42 | angela@apu.edu.my | +60125656565 | Member | Technology Services | IT support | angela | angela1021

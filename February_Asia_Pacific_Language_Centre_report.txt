@@ -1,0 +1,13 @@
++--------------------------------------------------------------------------------------------------+
+ Asia Pacific Language Centre Monthly Report on February                                                            
++--------------------------------------------------------------------------------------------------+
+|         Leave Type          | Total Number of Staff that Applied Leave | Average Leaves Per Month|
++-----------------------------+------------------------------------------+-------------------------+
+| Total Leave Applied         | 4                                        | 0.142857                |
+| Total Annual Leave Applied  | 0                                        | 0.000000                |
+| Total Compassionate Applied | 0                                        | 0.000000                |
+| Total Emergency Applied     | 0                                        | 0.000000                |
+| Total Maternity Applied     | 0                                        | 0.000000                |
+| Total Medical Applied       | 4                                        | 0.142857                |
++-----------------------------+------------------------------------------+-------------------------+
+

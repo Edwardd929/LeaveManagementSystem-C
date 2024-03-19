@@ -1,0 +1,108 @@
+Academic Administration | January | Annual Leave: 0 | Compassionate Leave: 1 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | February | Annual Leave: 0 | Compassionate Leave: 1 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 1
+Academic Administration | March | Annual Leave: 0 | Compassionate Leave: 2 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Academic Administration | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | February | Annual Leave: 0 | Compassionate Leave: 2 | Emergency Leave: 1 | Maternity Leave: 0 | Medical Leave: 4
+Asia Pacific Language Centre | March | Annual Leave: 7 | Compassionate Leave: 0 | Emergency Leave: 1 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Asia Pacific Language Centre | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | March | Annual Leave: 2 | Compassionate Leave: 0 | Emergency Leave: 2 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 3 | Medical Leave: 0
+Faculty of Business and Management | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 1 | Medical Leave: 0
+Faculty of Business and Management | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Business and Management | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | March | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Faculty of Computing and Technology | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | March | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Human Resources | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | March | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 2 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Operations Management | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | March | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | April | Annual Leave: 3 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Foundation Studies | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | March | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+School of Psychology | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | January | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | February | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | March | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | April | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | May | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | June | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | July | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | August | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | September | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | October | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | November | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0
+Technology Services | December | Annual Leave: 0 | Compassionate Leave: 0 | Emergency Leave: 0 | Maternity Leave: 0 | Medical Leave: 0

@@ -1,0 +1,21 @@
+AP1003 | Annual Leave | 3March2023 | 8March2023 | 6 | 4 | 0 | travel | approved
+AP1002 | Compassionate Leave | 28February2023 | 2March2023 | 3 | 1 | 2 | My father is sick | approved
+AP1002 | Annual Leave | 4April2023 | 7April2023 | 4 | 4 | 0 | travel | rejected
+AP1004 | Maternity Leave | 29May2023 | 1June2023 | 4 | 3 | 1 | Birth child | approved
+AP1013 | Emergency Leave | 28February2023 | 1March2023 | 2 | 1 | 1 | My brother was accident | approved
+AP1013 | Medical Leave | 2February2023 | 2February2023 | 1 | 1 | 0 | cough | approved
+AP1012 | Maternity Leave | 6March2023 | 8March2023 | 3 | 3 | 0 | Birth child | cancelled
+AP1012 | Maternity Leave | 7March2023 | 9March2023 | 3 | 3 | 0 | Birth child | pending
+AP1008 | Annual Leave | 6April2023 | 10April2023 | 5 | 3 | 0 | travel | approved
+AP1014 | Annual Leave | 4March2023 | 7March2023 | 4 | 2 | 0 | travel | approved
+AP1014 | Emergency Leave | 1March2023 | 2March2023 | 2 | 2 | 0 | Funeral of my relative | approved
+AP1012 | Compassionate Leave | 28January2023 | 30January2023 | 3 | 1 | 0 | My father was sick | approved
+AP1003 | Medical Leave | 26February2023 | 28February2023 | 3 | 2 | 0 | Sick | approved
+AP1003 | Medical Leave | 3February2023 | 3February2023 | 1 | 1 | 0 | Having flu | approved
+AP1002 | Medical Leave | 27February2023 | 27February2023 | 1 | 1 | 0 | Cough | approved
+AP1004 | Annual Leave | 12March2023 | 14March2023 | 3 | 2 | 0 | travel | rejected
+AP1021 | Annual Leave | 3March2023 | 6March2023 | 4 | 2 | 0 | travel | cancelled
+AP1007 | Emergency Leave | 2March2023 | 5March2023 | 4 | 2 | 0 | My dog is sick | approved
+AP1003 | Compassionate Leave | 15February2023 | 16February2023 | 2 | 2 | 0 | My mom is sick | approved
+AP1003 | Annual Leave | 12March2023 | 15March2023 | 4 | 3 | 0 | er | approved
+AP1003 | Annual Leave | 23March2023 | 28March2023 | 6 | 4 | 0 | er | rejected

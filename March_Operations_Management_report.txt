@@ -1,0 +1,13 @@
++--------------------------------------------------------------------------------------------------+
+ Operations Management Monthly Report on March                                                            
++--------------------------------------------------------------------------------------------------+
+|         Leave Type          | Total Number of Staff that Applied Leave | Average Leaves Per Month|
++-----------------------------+------------------------------------------+-------------------------+
+| Total Leave Applied         | 2                                        | 0.064516                |
+| Total Annual Leave Applied  | 0                                        | 0.000000                |
+| Total Compassionate Applied | 0                                        | 0.000000                |
+| Total Emergency Applied     | 2                                        | 0.064516                |
+| Total Maternity Applied     | 0                                        | 0.000000                |
+| Total Medical Applied       | 0                                        | 0.000000                |
++-----------------------------+------------------------------------------+-------------------------+
+

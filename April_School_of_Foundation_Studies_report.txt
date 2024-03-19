@@ -1,0 +1,13 @@
++--------------------------------------------------------------------------------------------------+
+ School of Foundation Studies Monthly Report on April                                                            
++--------------------------------------------------------------------------------------------------+
+|         Leave Type          | Total Number of Staff that Applied Leave | Average Leaves Per Month|
++-----------------------------+------------------------------------------+-------------------------+
+| Total Leave Applied         | 3                                        | 0.100000                |
+| Total Annual Leave Applied  | 3                                        | 0.100000                |
+| Total Compassionate Applied | 0                                        | 0.000000                |
+| Total Emergency Applied     | 0                                        | 0.000000                |
+| Total Maternity Applied     | 0                                        | 0.000000                |
+| Total Medical Applied       | 0                                        | 0.000000                |
++-----------------------------+------------------------------------------+-------------------------+
+

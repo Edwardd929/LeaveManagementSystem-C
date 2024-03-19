@@ -1,0 +1,16 @@
++--------------------------------------------------------------------------------------------------+
+ School Monthly Report on January                                                            
++--------------------------------------------------------------------------------------------------+
+|         Leave Type          | Total Number of Staff that Applied Leave | Average Leaves Per Month|
++-----------------------------+------------------------------------------+-------------------------+
+| Total Leave Applied         | 1                                        | 0.032258                |
+| Total Annual Leave Applied  | 0                                        | 0.000000                |
+| Total Compassionate Applied | 1                                        | 0.032258                |
+| Total Emergency Applied     | 0                                        | 0.000000                |
+| Total Maternity Applied     | 0                                        | 0.000000                |
+| Total Medical Applied       | 0                                        | 0.000000                |
++-----------------------------+------------------------------------------+-------------------------+
+
+During January, the employee who took the highest number of leaves was 1 days, and the leave was taken by:
+
+AP1012 | Name: Catherine Cheing  | Department: Academic Administration 

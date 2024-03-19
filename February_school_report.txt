@@ -1,0 +1,16 @@
++--------------------------------------------------------------------------------------------------+
+ School Monthly Report on February                                                            
++--------------------------------------------------------------------------------------------------+
+|         Leave Type          | Total Number of Staff that Applied Leave | Average Leaves Per Month|
++-----------------------------+------------------------------------------+-------------------------+
+| Total Leave Applied         | 6                                        | 0.214286                |
+| Total Annual Leave Applied  | 0                                        | 0.000000                |
+| Total Compassionate Applied | 1                                        | 0.035714                |
+| Total Emergency Applied     | 0                                        | 0.000000                |
+| Total Maternity Applied     | 0                                        | 0.000000                |
+| Total Medical Applied       | 5                                        | 0.178571                |
++-----------------------------+------------------------------------------+-------------------------+
+
+During February, the employee who took the highest number of leaves was 3 days, and the leave was taken by:
+
+AP1003 | Name: William Lim  | Department: Asia Pacific Language Centre 
